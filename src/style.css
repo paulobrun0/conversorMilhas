@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  margin-top: 3.125rem;
+}
+.btns {
+  display: flex;
+  justify-content: space-evenly;
+}
